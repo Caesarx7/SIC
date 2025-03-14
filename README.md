@@ -1,0 +1,2 @@
+# SIC
+Proyecto IA SIC
